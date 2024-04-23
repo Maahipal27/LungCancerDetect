@@ -10,6 +10,7 @@ An informative chatbot, powered by Google Gemini API, acts as a virtual healthca
 3. TensorFlow or PyTorch for integrating the CNN model for lung cancer detection.
 4. Python for implementing data processing and model inference.
 5. Google Gemini
+6. Email js
 
 ## Getting Started with this project
 
