@@ -1,6 +1,7 @@
 # Lung Cancer Detection
 
-This Lung Cancer Detection website, built with React JS, utilizes a powerful CNN model to accurately detect lung cancer from medical images (dataset), providing timely and reliable results for early diagnosis and treatment.An informative chatbot, powered by Google Gemini API, acts as a virtual healthcare consultant. Patients can engage in conversations about health concerns, receiving responses that mimic a doctor's guidance. Additionally, upon detection of cancer, the chatbot provides specific information about the type identified.
+This Lung Cancer Detection website, built with React JS, utilizes a powerful CNN model to accurately detect lung cancer from medical images (dataset), providing timely and reliable results for early diagnosis and treatment.
+An informative chatbot, powered by Google Gemini API, acts as a virtual healthcare consultant. Patients can engage in conversations about health concerns, receiving responses that mimic a doctor's guidance. Additionally, upon detection of cancer, the chatbot provides specific information about the type identified.
 
 ## Tech Stack
 
@@ -8,6 +9,7 @@ This Lung Cancer Detection website, built with React JS, utilizes a powerful CNN
 2. Tailwind CSS
 3. TensorFlow or PyTorch for integrating the CNN model for lung cancer detection.
 4. Python for implementing data processing and model inference.
+5. Google Gemini
 
 ## Getting Started with this project
 
