@@ -11,6 +11,7 @@ An informative chatbot, powered by Google Gemini API, acts as a virtual healthca
 4. Python for implementing data processing and model inference.
 5. Google Gemini
 6. Email js
+7. Three js
 
 ## Getting Started with this project
 
